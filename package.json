@@ -1,0 +1,55 @@
+{
+  "name": "idea-newui-dark-icons",
+  "displayName": "JetBrains New UI Dark Icons",
+  "description": "A VS Code icons theme inspired by IntelliJ IDEA New UI Dark, mainly tuned for Java and Maven.",
+  "keywords": [
+		"java",
+		"intellij",
+    "idea",
+    "jetbrains",
+    "newui",
+    "dark",
+		"darcula",
+		"semantic-highlighting",
+		"icons"
+	],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tzraeq/vscode-theme-idea-newui-dark.git"
+  },
+  "bugs": {
+		"url": "https://github.com/tzraeq/vscode-theme-idea-newui-dark/issues"
+	},
+  "homepage": "https://github.com/tzraeq/vscode-theme-idea-newui-dark",
+  "version": "0.8.0",
+  "author": "tzraeq <tzraeq@gmail.com>",
+  "publisher": "tzraeq",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+		"Icons"
+  ],
+  "icon": "logo.png",
+	"extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "contributes": {
+		"iconThemes": [
+      {
+        "id": "IDEA New UI Dark Icons",
+        "label": "IDEA New UI Dark Icons",
+        "path": "./icons/idea-newui-dark-icons.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.0.0"
+  }
+}

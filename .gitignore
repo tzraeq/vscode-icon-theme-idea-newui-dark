@@ -1,0 +1,10 @@
+node_modules/
+.vscode/
+*.vsix
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+package-lock.json
+.DS_Store
+.npmrc
+.history
