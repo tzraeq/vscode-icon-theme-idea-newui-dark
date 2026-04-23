@@ -15,12 +15,12 @@
 	],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tzraeq/vscode-theme-idea-newui-dark.git"
+    "url": "https://github.com/peakoss/vscode-jetbrains-icon-theme.git"
   },
   "bugs": {
-		"url": "https://github.com/tzraeq/vscode-theme-idea-newui-dark/issues"
+		"url": "https://github.com/peakoss/vscode-jetbrains-icon-theme/issues"
 	},
-  "homepage": "https://github.com/tzraeq/vscode-theme-idea-newui-dark",
+  "homepage": "https://github.com/peakoss/vscode-jetbrains-icon-theme",
   "version": "0.8.0",
   "author": "tzraeq <tzraeq@gmail.com>",
   "publisher": "tzraeq",
