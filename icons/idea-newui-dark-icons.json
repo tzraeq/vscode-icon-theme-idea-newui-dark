@@ -80,7 +80,7 @@
       "iconPath": "./svg/dockercompose-icon.svg"
     },
     "_dockerfile": {
-      "iconPath": "./svg/dockerfile-icon.svg"
+      "iconPath": "./svg/docker-icon.svg"
     },
     "_dot": {
       "iconPath": "./svg/dot-icon.svg"
@@ -375,7 +375,6 @@
     "classes": "_folder-orange",
     "test-classes": "_folder-orange",
     "dmp": "_log",
-    "docker": "_docker",
     "gen": "_foldergen",
     "ios": "_apple",
     "images": "_folderassets",
