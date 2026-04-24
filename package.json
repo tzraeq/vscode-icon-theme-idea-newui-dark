@@ -10,17 +10,16 @@
     "newui",
     "dark",
 		"darcula",
-		"semantic-highlighting",
 		"icons"
 	],
   "repository": {
     "type": "git",
-    "url": "https://github.com/peakoss/vscode-jetbrains-icon-theme.git"
+    "url": "https://github.com/tzraeq/vscode-icon-theme-idea-newui-dark.git"
   },
   "bugs": {
-		"url": "https://github.com/peakoss/vscode-jetbrains-icon-theme/issues"
+		"url": "https://github.com/tzraeq/vscode-icon-theme-idea-newui-dark/issues"
 	},
-  "homepage": "https://github.com/peakoss/vscode-jetbrains-icon-theme",
+  "homepage": "https://github.com/tzraeq/vscode-icon-theme-idea-newui-dark",
   "version": "0.8.0",
   "author": "tzraeq <tzraeq@gmail.com>",
   "publisher": "tzraeq",
