@@ -23,7 +23,7 @@ It focuses on Java and Maven projects while keeping a clean, consistent look for
 
 1. Open VS Code Command Palette (`Ctrl` + `Shift` + `P`)
 2. Run `Preferences: File Icon Theme`
-3. Select `IDEA New UI Dark Icons`
+3. Select `JetBrains Icons New UI Dark`
 
 ## Feedback
 
