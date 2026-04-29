@@ -39,5 +39,5 @@ If this extension helps you, consider rating it on the [Marketplace][marketplace
 
 Inspired by JetBrains IDE New UI icon style.
 
-[marketplace]: https://marketplace.visualstudio.com/items?itemName=tzraeq.idea-newui-dark-icons
-[issues]: https://github.com/tzraeq/vscode-theme-idea-newui-dark/issues
+[marketplace]: https://marketplace.visualstudio.com/items?itemName=tzraeq.idea-icons-newui-dark
+[issues]: https://github.com/tzraeq/vscode-icon-theme-idea-newui-dark/issues
