@@ -1,6 +1,6 @@
 {
-  "name": "idea-new-icons-dark",
-  "displayName": "JetBrains New Icons Dark",
+  "name": "idea-icons-newui-dark",
+  "displayName": "JetBrains Icons New UI Dark",
   "description": "A VS Code icons theme inspired by IntelliJ IDEA New UI Dark, mainly tuned for Java and Maven.",
   "keywords": [
 		"java",
@@ -38,8 +38,8 @@
   "contributes": {
 		"iconThemes": [
       {
-        "id": "IDEA New Icons Dark",
-        "label": "IDEA New Icons Dark",
+        "id": "JetBrains Icons New UI Dark",
+        "label": "JetBrains Icons New UI Dark",
         "path": "./icons/idea-newui-dark-icons.json"
       }
     ]
